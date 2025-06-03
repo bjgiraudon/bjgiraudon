@@ -8,10 +8,10 @@ I specialize in **Go**, **Python**, and **Kubernetes**, and I love building back
 ## 🛠 Tech Stack
 
 - **Languages**: Go · Python · Bash · SQL (PostgreSQL)
-- **DevOps & Cloud**: Kubernetes (CKA) · Helm · ArgoCD · GitLab CI/CD · AWS · Redis · S3
-- **Data & Workflows**: STAC · EODAG · pgSTAC · CWL · Prefect · Prometheus
-- **Security & Observability**: OIDC · OpenTelemetry · Grafana · Loki · SonarQube
-- **Practices**: Clean Architecture · Microservices · Code Reviews · Test Coverage > 95%
+- **DevOps & Cloud**: Kubernetes (CKA) · Helm · ArgoCD · GitLab CI/CD · Redis · S3
+- **Data & Workflows**: STAC · CWL · Prefect
+- **Security & Observability**: OIDC · Prometheus · OpenTelemetry · Grafana · Loki · SonarQube
+- **Practices**: Clean Architecture · Microservices
 
 ---
 
@@ -34,7 +34,6 @@ I specialize in **Go**, **Python**, and **Kubernetes**, and I love building back
 
 ## 📬 Get in Touch
 
-- 📧 bj.giraudon@gmail.com  
 - 🌐 [linkedin.com/in/bjgiraudon](https://www.linkedin.com/in/bjgiraudon)  
 - 💼 Available for freelance / remote missions
 
