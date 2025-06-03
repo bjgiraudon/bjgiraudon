@@ -1,13 +1,14 @@
 # 👋 Hi, I'm Benjamin
 
 I'm a **Backend & DevOps Engineer** based in France 🇫🇷, with 4+ years of experience designing robust, scalable, and secure systems.  
-I specialize in **Go**, **Python**, and **Kubernetes**, and I love building backend architectures and automating complex workflows — especially for **Earth Observation (EO)** and **Space Situational Awareness (SSA)** platforms.
+I specialize in **Go**, **Python**, and **Kubernetes**, and have deep expertise in building **RESTful APIs** and backend architectures for complex data workflows — especially for **Earth Observation (EO)** and **Space Situational Awareness (SSA)** platforms.
 
 ---
 
 ## 🛠 Tech Stack
 
 - **Languages**: Go · Python · Bash · SQL (PostgreSQL)
+- **Backend & APIs**: REST · gRPC · SSE
 - **DevOps & Cloud**: Kubernetes (CKA) · Helm · ArgoCD · GitLab CI/CD · Redis · S3
 - **Data & Workflows**: STAC · CWL · Prefect
 - **Security & Observability**: OIDC · Prometheus · OpenTelemetry · Grafana · Loki · SonarQube
